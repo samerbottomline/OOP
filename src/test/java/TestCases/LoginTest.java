@@ -17,7 +17,7 @@ public class LoginTest {
 	public void SuccessfulLogin() throws InterruptedException 
 	{
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\samer.rahal\\Downloads\\chromedriver92\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		//logger.info("Driver initialized " + getClass().getName());
 		
