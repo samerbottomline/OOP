@@ -1,0 +1,6 @@
+09:10:24.380 [main] INFO  TestCases.LoginTest - firstName initialized TestCases.LoginTest
+09:10:24.386 [main] INFO  TestCases.LoginTest - lastName initialized TestCases.LoginTest
+09:10:24.386 [main] INFO  TestCases.LoginTest - EmailAddress initialized TestCases.LoginTest
+09:10:35.709 [main] INFO  TestCases.LoginTest - firstName initialized TestCases.LoginTest
+09:10:35.714 [main] INFO  TestCases.LoginTest - lastName initialized TestCases.LoginTest
+09:10:35.714 [main] INFO  TestCases.LoginTest - EmailAddress initialized TestCases.LoginTest

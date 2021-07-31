@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-27T15:58:02 EEST" name="Suite" finished-at="2021-07-27T15:58:18 EEST" duration-ms="15101">
+  <suite started-at="2021-07-31T10:00:28 EEST" name="Default suite" finished-at="2021-07-31T10:00:28 EEST" duration-ms="453">
     <groups>
     </groups>
-    <test started-at="2021-07-27T15:58:02 EEST" name="Test" finished-at="2021-07-27T15:58:18 EEST" duration-ms="15101">
+    <test started-at="2021-07-31T10:00:28 EEST" name="Default test" finished-at="2021-07-31T10:00:28 EEST" duration-ms="453">
       <class name="TestCases.LoginTest">
-        <test-method signature="SuccessfulLogin()[pri:0, instance:TestCases.LoginTest@6b9ce1bf]" started-at="2021-07-27T15:58:02 EEST" name="SuccessfulLogin" finished-at="2021-07-27T15:58:18 EEST" duration-ms="15055" status="PASS">
+        <test-method signature="FakerDataGenerator()[pri:0, instance:TestCases.LoginTest@efde75f]" started-at="2021-07-31T10:00:28 EEST" name="FakerDataGenerator" description="Faker API usage" finished-at="2021-07-31T10:00:28 EEST" duration-ms="406" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SuccessfulLogin -->
+        </test-method> <!-- FakerDataGenerator -->
       </class> <!-- TestCases.LoginTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
